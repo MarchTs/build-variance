@@ -1,0 +1,15 @@
+{
+    "name": "build-variance",
+    "version": "1.0.2",
+    "description": "build variance",
+    "main": "build-variance.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node build-variance.js"
+    },
+    "keywords": [
+        "build-variance"
+    ],
+    "author": "Thanapat Saisoontornwattana",
+    "license": "ISC"
+}
