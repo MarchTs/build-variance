@@ -1,6 +1,6 @@
 {
     "name": "@march_ts/build-variant",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "build variance",
     "main": "build-variance.js",
     "scripts": {

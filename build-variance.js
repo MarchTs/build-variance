@@ -1,4 +1,4 @@
-const build = require("../../app/configs/build-variance.json");
+const build = require("../../../app/configs/build-variant.json");
 
 const buildVariance = build.variance[build["using-variance"]];
 
